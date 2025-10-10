@@ -1,0 +1,27 @@
+# Core Deep Learning (Latest versions - 2025)
+torch>=2.7.0
+transformers>=4.40.0
+
+# Data Processing
+numpy>=1.26.0
+pandas>=2.2.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Jupyter for interactive development
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Utilities
+tqdm>=4.66.0
+scikit-learn>=1.4.0
+
+# Optional: for better model handling
+accelerate>=0.30.0
+datasets>=2.19.0
+
+# Additional helpful libraries
+sentencepiece>=0.2.0
+protobuf>=4.25.0

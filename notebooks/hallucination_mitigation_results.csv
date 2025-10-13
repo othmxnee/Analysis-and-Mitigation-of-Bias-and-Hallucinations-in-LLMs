@@ -1,0 +1,5 @@
+Technique,Avg Hallucination Score,Avg Uncertainty Level,Improvement %
+Baseline (No Mitigation),0.5833333333333334,0.5,0.0
+Temperature Reduction,0.5499999999999999,0.5,5.714285714285731
+Uncertainty Prompting,0.5499999999999999,0.5,5.714285714285731
+Response Verification,0.9266666666666666,0.07333333333333333,-58.85714285714284

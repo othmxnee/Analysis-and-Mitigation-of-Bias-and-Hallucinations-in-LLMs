@@ -120,24 +120,4 @@ Through this project, I gained experience in:
 - Implementing bias mitigation techniques
 - Documenting technical projects professionally
 
-##  Future Improvements
 
-- Expand bias testing to more categories
-- Test on larger/newer models
-- Implement more advanced mitigation techniques
-- Create interactive dashboard for results
-
-##  References
-
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - Transformer architecture
-- [On the Dangers of Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922) - LLM risks
-- [TruthfulQA: Measuring How Models Mimic Human Falsehoods](https://arxiv.org/abs/2109.07958)
-
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Note**: This is an educational project created to understand and address critical issues in AI systems.
